@@ -2044,7 +2044,11 @@ blockquote {
 }
 
 .m-navlogo {
-  width: 184px;
+  width: 250;
+  margin-top: 20px;
+}
+.logoclass {
+  width: 250;
   margin-top: 20px;
 }
 
@@ -5602,4 +5606,8 @@ blockquote {
   display: none;
   text-align: left;
   overflow: hidden;
+}
+.logoclass {
+  margin-top: 20px;
+  font-size: 250px;
 }
