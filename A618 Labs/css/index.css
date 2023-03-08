@@ -1332,6 +1332,7 @@ textarea.w-select {
     padding-left: 10px;
   }
 }
+
 .w-lightbox-backdrop {
   color: #000;
   cursor: auto;
@@ -4895,6 +4896,7 @@ blockquote {
   .m-wrapper.homehero {
     display: -webkit-box;
     display: -webkit-flex;
+
     display: -ms-flexbox;
     display: flex;
     padding-top: 40px;
@@ -5111,6 +5113,10 @@ blockquote {
 
   .container-2 {
     padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 
   .jobdescription {
